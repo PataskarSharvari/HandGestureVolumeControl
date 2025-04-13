@@ -1,4 +1,5 @@
-🎛️ Hand Gesture Volume Control
+3🎛️ Hand Gesture Volume Control
+
 A Python-based application that enables users to control their system's volume using hand gestures captured via a webcam. By leveraging computer vision techniques, the application detects the distance between the thumb and index finger to adjust the volume level in real-time.​
 
 📌 Features
@@ -20,11 +21,11 @@ Create and activate a virtual environment (optional but recommended):
 
 bash:
 python -m venv venv
-# On Windows
+## On Windows
 venv\Scripts\activate
-# On macOS/Linux
+## On macOS/Linux
 source venv/bin/activate
-# Considering you have downloaded all the required dependencies.
+## Considering you have downloaded all the required dependencies.
 
 🚀 Usage
 Run the application:
@@ -32,14 +33,14 @@ Run the application:
 bash :
 python volume_control.py
 
-Instructions:
+##Instructions:
 Ensure your webcam is connected and functioning.​
 Place your hand in front of the webcam.​
 Adjust the distance between your thumb and index finger to increase or decrease the volume.
 The application will display the current volume level on the screen.​
 
 
-📂 Project Structure
+##📂 Project Structure
 plaintext
 Copy
 Edit
@@ -50,7 +51,7 @@ HandGestureVolumeControl/
 ├── README.md             # Project documentation
 
 
-✅ Dependencies
+##✅ Dependencies
 Python 3.x​
 OpenCV​
 GitHub
@@ -65,7 +66,7 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 📄 License
 This project is licensed under the MIT License.​
 
-🙋‍♀️ Author
+#🙋‍♀️ Author
 Developed by Sharvari Pataskar.
 
 
