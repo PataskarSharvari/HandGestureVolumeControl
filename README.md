@@ -1,4 +1,5 @@
-🎛️# Hand Based Computer Volume Control 
+# Hand based vomputer volume control 🎛️
+
 A Python-based application that enables users to control their system's volume using hand gestures captured via a webcam. By leveraging computer vision techniques, the application detects the distance between the thumb and index finger to adjust the volume level in real-time.​
 
 📌 Features
